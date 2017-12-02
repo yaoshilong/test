@@ -9,5 +9,8 @@ int main()
         }
         cout<< "I am dev-1.0.0"<< endl;
         cout<< "I am dev-1.0.1"<< endl;
+        cout<< "I am dev-1.0.1"<< endl;
+        cout<< "I am dev-1.0.1"<< endl;
+        cout<< "I am dev-1.0.1"<< endl; 
         return 0;
 }
