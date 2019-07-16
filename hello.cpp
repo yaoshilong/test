@@ -7,10 +7,6 @@ int main()
 		cout<< "hello world" << endl;
 		cout<< i << endl;
         }
-        cout<< "I am dev-1.0.0"<< endl;
-        cout<< "I am dev-1.0.1"<< endl;
-        cout<< "I am dev-1.0.1"<< endl;
-        cout<< "I am dev-1.0.1"<< endl;
-        cout<< "I am dev-1.0.1"<< endl; 
+        cout<< "I am dev-2.0.0"<< endl;  
         return 0;
 }
